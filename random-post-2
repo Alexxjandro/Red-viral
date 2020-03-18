@@ -14,8 +14,7 @@ a){var b=F.exec(a);b&&(b[1]=(b[1]||"").toLowerCase(),b[3]=b[3]&&new RegExp("(?:^
  </script>
 <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400italic,400,500,500italic,700,700italic,900%7CMaterial+Icons' rel='stylesheet' type='text/css'/>
 
-<link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/s/14ngvtfxia66gaz/frases-random1-post.css" async=""/>
-
+<link rel="stylesheet" type="text/css" href="https://dl.dropboxusercontent.com/s/y1vwahwftyk7tms/frases-random2-post.css" async=""/>
 
 
 </head>
